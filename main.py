@@ -18,4 +18,4 @@ if __name__ == "__main__":
     for modulo in modulos:
         client.load_extension(modulo)
     
-    client.run("NzEzNjk3NTgxMDg3MTk1MTk3.Xsj8fA.jnbczjV2L9uHDJ3DQvVwRbXdUBM")
+    client.run("SECRET_API_KEY")
